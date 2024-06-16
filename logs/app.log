@@ -1,0 +1,289 @@
+[2024-06-15T09:36:38.310Z]: [32minfo[39m Server started at 5000
+[2024-06-15T09:54:33.603Z]: [32minfo[39m Server started at 5000
+[2024-06-15T09:55:03.603Z]: [32minfo[39m Server started at 5000
+[2024-06-15T09:55:48.472Z]: [32minfo[39m Server started at 5000
+[2024-06-15T10:06:14.655Z]: [32minfo[39m Server started at 5000
+[2024-06-15T10:07:02.159Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:20:46.823Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:20:48.391Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:21:02.935Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:22:28.835Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:24:34.273Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:25:31.283Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:32:38.252Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:33:19.143Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:33:40.787Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:34:56.941Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:35:21.392Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:36:05.949Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:43:06.214Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:43:23.210Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:43:35.965Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:45:21.975Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:45:25.456Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:48:40.967Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:49:11.408Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:51:49.222Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:55:28.747Z]: [32minfo[39m Server started at 5000
+[2024-06-15T11:56:13.874Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:04:15.747Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:05:37.572Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:05:43.777Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:06:42.762Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:06:44.136Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:06:47.021Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:16:13.765Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:16:23.743Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:17:26.541Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:23:21.605Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:23:27.772Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:23:30.907Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:23:53.913Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:24:12.244Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:24:15.103Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:24:18.168Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:24:53.258Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:26:53.127Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:26:56.855Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:27:37.424Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:28:02.499Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:28:21.251Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:28:24.139Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:28:33.132Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:28:36.325Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:28:51.011Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:34:03.607Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:34:13.123Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:34:32.775Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:35:39.943Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:37:43.931Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:41:05.424Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:41:16.321Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:41:25.505Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:50:22.318Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:52:30.758Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:53:00.687Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:53:10.676Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:53:53.912Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:53:55.423Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:54:44.649Z]: [32minfo[39m Server started at 5000
+[2024-06-15T12:54:48.292Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T12:54:55.041Z]: [32minfo[39m "[POST] /api/v1/createUser" 200
+[2024-06-15T13:07:05.044Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:15:26.492Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:21:00.033Z]: [32minfo[39m "[POST] /api/v1/createUser" 200
+[2024-06-15T13:28:46.133Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:29:08.228Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:29:11.144Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:30:11.556Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:30:14.255Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:31:03.445Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:32:06.104Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:32:10.149Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:37:06.223Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:37:12.697Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:37:36.411Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:37:51.099Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:47:19.550Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:47:51.728Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:48:13.929Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:48:41.081Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:48:59.183Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:49:32.670Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:49:37.100Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:52:20.795Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:52:26.295Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:52:43.542Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:52:47.555Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:58:05.177Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:58:08.944Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T13:58:21.333Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:59:22.221Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:59:38.931Z]: [32minfo[39m Server started at 5000
+[2024-06-15T13:59:43.290Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:01:57.328Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:07:23.293Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:09:25.254Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:09:33.722Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:09:42.702Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:10:23.659Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:11:17.282Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:11:17.971Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:11:35.939Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:13:09.207Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:13:12.206Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:14:12.130Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:15:02.216Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:15:42.853Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:29:01.513Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:31:22.113Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:31:25.489Z]: [31merror[39m "[POST] /api/v1/createUser" 400
+[2024-06-15T14:38:42.820Z]: [32minfo[39m Server started at 5000
+[2024-06-15T14:38:46.202Z]: [32minfo[39m "[POST] /api/v1/createUser" 200
+[2024-06-15T14:42:47.565Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:01:43.091Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:02:23.726Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:05:05.481Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:05:44.271Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:06:11.027Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:09:13.865Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:13:05.177Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:13:08.160Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:13:13.038Z]: [32minfo[39m "[POST] /api/v1/createUser" 200
+[2024-06-15T15:13:44.383Z]: [31merror[39m "[POST] /api/v1/login" 404
+[2024-06-15T15:14:22.142Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:14:32.099Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:14:37.166Z]: [31merror[39m "[POST] /api/v1/login" 500
+[2024-06-15T15:15:02.845Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:15:08.659Z]: [31merror[39m "[POST] /api/v1/login" 500
+[2024-06-15T15:17:05.699Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:17:09.173Z]: [31merror[39m "[POST] /api/v1/login" 500
+[2024-06-15T15:18:58.420Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:19:02.022Z]: [31merror[39m "[POST] /api/v1/login" 500
+[2024-06-15T15:20:27.006Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:20:58.254Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:24:05.162Z]: [32minfo[39m Server started at 5000
+[2024-06-15T15:24:11.856Z]: [32minfo[39m "[POST] /api/v1/login" 200
+[2024-06-15T17:06:35.964Z]: [32minfo[39m Server started at 5000
+[2024-06-15T17:06:39.357Z]: [31merror[39m "[POST] /api/v1/login" 500
+[2024-06-15T17:07:07.761Z]: [32minfo[39m Server started at 5000
+[2024-06-15T17:07:10.128Z]: [32minfo[39m "[POST] /api/v1/login" 200
+[2024-06-15T17:11:31.710Z]: [32minfo[39m Server started at 5000
+[2024-06-15T17:11:36.453Z]: [32minfo[39m "[POST] /api/v1/login" 200
+[2024-06-15T17:12:21.110Z]: [32minfo[39m Server started at 5000
+[2024-06-15T17:12:28.078Z]: [32minfo[39m "[POST] /api/v1/login" 200
+[2024-06-15T17:12:43.907Z]: [32minfo[39m Server started at 5000
+[2024-06-15T17:12:52.485Z]: [32minfo[39m "[POST] /api/v1/login" 200
+[2024-06-15T19:38:21.238Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:39:27.337Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:39:36.714Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:41:42.179Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:42:45.787Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:43:06.926Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:45:35.560Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:47:33.250Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:47:59.394Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:50:40.589Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:51:49.192Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:52:04.758Z]: [32minfo[39m Server started at 5000
+[2024-06-15T19:52:20.323Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:00:54.682Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:01:36.966Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:03:56.776Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:04:46.808Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:04:56.814Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:06:15.802Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:06:43.940Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:06:58.491Z]: [32minfo[39m Server started at 5000
+[2024-06-15T20:59:49.969Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:00:41.272Z]: [31merror[39m "[POST] /api/v1/newArtist" 400
+[2024-06-15T21:01:35.321Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:02:11.791Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:02:20.703Z]: [31merror[39m "[POST] /api/v1/newArtist" 400
+[2024-06-15T21:03:26.466Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:03:37.759Z]: [32minfo[39m "[POST] /api/v1/newArtist" 200
+[2024-06-15T21:10:18.563Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:12:53.206Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:13:16.720Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:14:04.928Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:19:45.691Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:20:31.003Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:22:18.161Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:22:39.601Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:23:10.845Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:23:56.969Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:24:29.106Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:24:41.537Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:37:10.564Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:37:37.845Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:39:03.665Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:39:11.116Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:42:11.448Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:42:14.174Z]: [31merror[39m "[POST] /api/v1/createUser" 404
+[2024-06-15T21:42:39.465Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:42:40.325Z]: [31merror[39m "[POST] /api/v1/createUser" 404
+[2024-06-15T21:42:55.106Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:43:10.407Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:43:35.453Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:44:04.862Z]: [31merror[39m "[POST] /api/v1/newArtist" 400
+[2024-06-15T21:44:32.627Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:44:35.131Z]: [31merror[39m "[POST] /api/v1/newArtist" 404
+[2024-06-15T21:45:09.235Z]: [31merror[39m "[POST] /api/v1/newArtist" 404
+[2024-06-15T21:45:27.038Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:46:01.591Z]: [31merror[39m "[POST] /api/v1/newArtist" 404
+[2024-06-15T21:46:36.021Z]: [31merror[39m "[POST] /api/v1/createAlbum" 404
+[2024-06-15T21:46:49.082Z]: [31merror[39m "[POST] /api/v1/newAlbum" 404
+[2024-06-15T21:47:06.240Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:47:10.125Z]: [31merror[39m "[POST] /api/v1/newAlbum" 400
+[2024-06-15T21:47:29.370Z]: [32minfo[39m Server started at 5000
+[2024-06-15T21:47:33.608Z]: [32minfo[39m "[POST] /api/v1/newAlbum" 200
+[2024-06-16T04:22:10.626Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:23:18.894Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:25:16.702Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:27:38.456Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:28:15.840Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:28:29.065Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:28:51.278Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:44:01.928Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:44:17.274Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:46:45.655Z]: [31merror[39m "[POST] /api/v1/addTrack" 404
+[2024-06-16T04:47:08.322Z]: [32minfo[39m Server started at 5000
+[2024-06-16T04:47:13.991Z]: [32minfo[39m "[POST] /api/v1/addTrack" 200
+[2024-06-16T06:17:11.857Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:26:41.144Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:37:16.742Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:42:00.086Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:42:18.469Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:43:05.749Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:43:17.120Z]: [32minfo[39m Server started at 5000
+[2024-06-16T06:43:18.840Z]: [32minfo[39m Server started at 5000
+[2024-06-16T08:36:49.193Z]: [32minfo[39m Server started at 5000
+[2024-06-16T08:37:46.993Z]: [32minfo[39m Server started at 5000
+[2024-06-16T08:37:57.065Z]: [32minfo[39m Server started at 5000
+[2024-06-16T08:38:01.816Z]: [32minfo[39m Server started at 5000
+[2024-06-16T10:37:24.617Z]: [32minfo[39m Server started at 5000
+[2024-06-16T10:38:27.127Z]: [32minfo[39m Server started at 5000
+[2024-06-16T10:46:02.366Z]: [32minfo[39m Server started at 5000
+[2024-06-16T10:46:07.735Z]: [32minfo[39m Server started at 5000
+[2024-06-16T11:59:00.496Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:00:16.663Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:15:58.812Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:23:08.786Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:23:29.713Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:26:19.670Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:27:37.091Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:27:46.531Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:55:34.905Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:56:03.383Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:56:10.322Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:56:40.560Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:57:01.661Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:57:36.360Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:57:49.127Z]: [31merror[39m "[POST] /api/v1/getSongs" 404
+[2024-06-16T12:58:10.732Z]: [31merror[39m "[GET] /api/v1/getSongs" 400
+[2024-06-16T12:58:41.049Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:58:55.690Z]: [32minfo[39m Server started at 5000
+[2024-06-16T12:58:58.266Z]: [32minfo[39m "[GET] /api/v1/getSongs" 200
+[2024-06-16T12:59:34.319Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:00:46.959Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:31:15.303Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:31:51.202Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:32:03.920Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:32:16.476Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:32:20.826Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:35:01.083Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:35:17.347Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:35:36.516Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:35:51.319Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:45:35.855Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:46:24.167Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:46:31.518Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:46:52.446Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:48:56.650Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:49:08.014Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:49:32.581Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:52:08.714Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:52:33.384Z]: [32minfo[39m Server started at 5000
+[2024-06-16T13:52:45.346Z]: [32minfo[39m Server started at 5000
+[2024-06-16T14:01:23.787Z]: [32minfo[39m Server started at 5000
+[2024-06-16T14:04:01.493Z]: [32minfo[39m Server started at 5000

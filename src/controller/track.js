@@ -25,6 +25,18 @@ const addTrack = async (req, res) => {
   }
 };
 
+const getTracks = async (req, res) => {
+  try {
+    const tracks = await prisma.tracks.findMany();
+    console.log(tracks);
+    return res.status(200).json({ message: "Songs are ", tracks });
+  } catch (error) {
+    console.log("message", error.message);
+    return res.status(400).json({ Error: error.message });
+  }
+};
+
 module.exports = {
   addTrack,
+  getTracks,
 };

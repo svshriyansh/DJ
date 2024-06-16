@@ -60,7 +60,8 @@ model Playlists {
   userId Int
   name String @db.VarChar(50)
   imageUrl String?
-  track Tracks[]
+  trackId Int
+  track Tracks @relation(fields: [trackId],references: [id])
   playlist_Track Playlist_Track[]
 }
 
