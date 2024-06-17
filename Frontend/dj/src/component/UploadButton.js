@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import firebase from "firebase/app";
 import getFirebase from "../config/configuration";
 import { getStorage, ref, uploadBytes } from "firebase/storage";
 

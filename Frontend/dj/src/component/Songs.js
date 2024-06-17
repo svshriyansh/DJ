@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useGetSongs } from "../utility/useGetSongs";
-import UploadButton from "./UploadButton";
+import AudioPlayer from "./AudioPlayer";
 const Songs = () => {
   const { data, getData } = useGetSongs();
 
@@ -30,6 +30,10 @@ const Songs = () => {
           </tr>
         </tbody>
       </table>
+      <div>
+        <h1>Audio Stream from Firebase</h1>
+        <AudioPlayer filePath="disk-jokey-6b5e4.appspot.com/Tum-Hi-Ho-2.0%28PaglaSongs%29.mp3" />
+      </div>
     </div>
   );
 };

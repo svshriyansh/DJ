@@ -15,7 +15,7 @@ export const useGetSongs = () => {
       .then((res) => setData(res))
       .catch((err) => console.log(err));
   };
-  return { data, getData };
+  return { data, getData, postData };
 };
 
 // export default {useGetSongs, getData};
