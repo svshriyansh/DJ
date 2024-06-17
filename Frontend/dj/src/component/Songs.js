@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { useGetSongs } from "../utility/useGetSongs";
+import UploadButton from "./UploadButton";
 const Songs = () => {
   const { data, getData } = useGetSongs();
 
@@ -20,7 +21,7 @@ const Songs = () => {
         </thead>
         <tbody>
           <tr>
-            {console.log("data", data?.tracks?.[0].name)}
+            {console.log("data", data?.tracks?.[0]?.name)}
             <td>
               {data?.tracks?.map((idx, ele) => {
                 return <td key={idx}>{idx?.name}</td>;
