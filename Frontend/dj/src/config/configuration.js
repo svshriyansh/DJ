@@ -1,5 +1,8 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
+import { getStorage, ref } from "firebase/storage";
+
+import { getFirestore, } from 'firebase/firestore/lite';
 // require("dotenv").config();
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
@@ -17,15 +20,10 @@ const firebaseConfig = {
   measurementId: process.env.REACT_APP_MEASUREMENT_ID,
 };
 
-// Initialize Firebase
-let instance;
 
-export default function getFirebase() {
-  if (typeof window !== "undefined") {
-    if (instance) return instance;
-    instance = initializeApp(firebaseConfig);
-    return instance;
-  }
+const app = initializeApp(firebaseConfig);
+const storage = getStorage(app);
+console.log("storage is ",firebaseConfig)
+const storageRef = ref(storage);
 
-  return null;
-}
+export  { storageRef,storage}

@@ -14547,3 +14547,4 @@
 [2024-06-17T15:04:48.269Z]: [32minfo[39m "[GET] /api/v1/getSongs" 200
 [2024-06-17T15:07:34.721Z]: [32minfo[39m "[GET] /api/v1/getSongs" 200
 [2024-06-17T15:34:35.953Z]: [32minfo[39m "[GET] /api/v1/getSongs" 200
+[2024-06-22T19:26:20.818Z]: [32minfo[39m Server started at 5000
