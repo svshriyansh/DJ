@@ -5,16 +5,35 @@ import { getStorage, ref, list, getDownloadURL, uploadBytes, deleteObject } from
 
 const AudioPlayer =()=>{
   const storage = getStorage();
-  const [songs, setSongs] = useState(null);
-  // console.log("storage",ref(storage,"gs://disk-jokey-6b5e4.appspot.com"));
-  const fetchSong = async ()=>{
-    const filename = 'O Sajni Re(PagalWorld.com.sb).mp3';
-    const spaceRef= ref(storage,filename);
-    getDownloadURL(spaceRef).then((url)=>{
-       setSongs(url)
-    })
+  const [songs, setSongs] = useState([]);
+  const [selectedSongs, setSelectedSongs] = useState([]);
 
+  const toggleSongSelection = (index) =>{
+    const isSelected = selectedSongs.includes(index);
+    if(isSelected){
+      setSelectedSongs(selectedSongs.filter((selectedIndex)=>selectedIndex!=index))
+    }else{
+      setSelectedSongs([...selectedSongs, index]);
+    }
   }
+  
+  const fetchSong = async ()=>{
+      const filename = 'audio/mpeg';
+      const spaceRef= ref(storage);
+      console.log("ref",spaceRef)
+      const songsList = await list(spaceRef, { maxResults: 100 });
+
+      console.log("items",songsList)
+      const songArray = await Promise.all(
+        songsList.items.map(async (item)=>{
+          const url = await getDownloadURL(item);
+          return { name: item.name, url };
+        })
+      )
+      console.log("array",songArray)
+      setSongs(songArray)
+  
+    }
 
   useEffect(()=>{
     fetchSong();
@@ -26,14 +45,38 @@ const AudioPlayer =()=>{
     </div>)
   }
   return(
-    <div>
-      {console.log("--->",songs)}
-      {
-      <audio controls>
-        <source src={songs} type="audio/mp3" />
-        Your browser does not support the audio element.
-      </audio>
-      }
+    <div className='musicplayer-container'>
+      <div className='columns'>
+      <table>
+        <thead>
+          <tr>
+            <th>Song List</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <ul className='song-list'>
+                {songs.map((song,index)=>(
+                  <li key={index}>
+                    <input
+                      type='checkbox'
+                      checked={selectedSongs.includes(index)}
+                      onChange={()=>toggleSongSelection(index)}
+                    />
+                    <audio controls >
+                      <source src={song.url} type="audio/mp3" />
+                    Your browser does not support the audio element.
+                    </audio>
+                    <p>{song.name}</p>
+                  </li>
+                ))}
+              </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
       
     </div>
   )
